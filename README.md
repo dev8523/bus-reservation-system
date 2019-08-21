@@ -4,4 +4,12 @@
 - You can see the bill how much is your fare cost as well as you can get some discounts.
 
 # Glance of output
-You can see the output in the attached output glance file.
+You can have a glimpse of outputs in the attached output glance file.
+
+# Note
+If you want to import this project in eclipse, then please follow these steps:
+- Download this project.
+- Remove the output glance file.
+- Import the project in Eclipse.
+- Run it.
+- For Output reference please refer to output glance file.
