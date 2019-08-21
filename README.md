@@ -11,5 +11,5 @@ If you want to import this project in eclipse, then please follow these steps:
 - Download this project.
 - Remove the output glance file.
 - Import the project in Eclipse.
-- Run it.
+- Run it as Java application.
 - For Output reference please refer to output glance file.
